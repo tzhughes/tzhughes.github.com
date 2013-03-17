@@ -1,4 +1,4 @@
 tzhughes.github.com
 ===================
 
-Repo for my homde pages
+Repo for my home pages
